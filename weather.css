@@ -1,0 +1,37 @@
+  *{ 
+    box-sizing: border-box;
+    
+    color: white;
+}
+body{
+    
+    background:url("https://i.pinimg.com/originals/bd/72/d1/bd72d10c741dde2ce2684577ffa0d86f.gif");
+    background-size: 1400px;
+    background-repeat:no-repeat;  
+    
+} 
+.content{
+
+
+    font-size: 20px;
+    font-weight: bold;
+    padding:2%;
+    margin-bottom: 2%;
+
+
+
+}
+#input{
+    padding:0.8%;
+    border-radius: 10px;
+    margin:2%;
+    border: none;
+}
+.sub{
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: rgb(175, 219, 216);
+    margin:2%;
+
+
+}
